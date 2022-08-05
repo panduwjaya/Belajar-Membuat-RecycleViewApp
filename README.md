@@ -1,2 +1,2 @@
 # Belajar-Membuat-RecycleViewApp
-Belajar Membuat Aplikasi Android untuk Pemula
+Belajar Membuat Aplikasi Android untuk Pemula Dicoding
